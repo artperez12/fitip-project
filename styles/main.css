@@ -1,0 +1,33 @@
+#fitip {
+    font-size: 30px;
+    font-family: impact;
+    margin: 20px;
+    padding-left: 20px;
+    border: solid blue;
+    background-color: blue;
+    color: white;
+    width: 100%;
+    height: 100px;
+
+  }
+#weightinput {
+  color: blue;
+  text-align: center;
+  padding-top: 50px;
+  font-size: 50px;
+  font-family: Trebuchet MS;
+
+}
+#choicemale {
+  float: left;
+  padding-left: 280px;
+  padding-top: 60px;
+
+}
+
+#choicefemale {
+  float: right;
+  padding-right: 280px;
+  padding-top: 65px;
+
+}
